@@ -1,1 +1,8 @@
-
+[DHT11 Simulator (Python)]
+        |
+        | MQTT
+        v
+[ Mosquitto Broker ]
+        |
+        v
+[ Subscriber / Application ]
